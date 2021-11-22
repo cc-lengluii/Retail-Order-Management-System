@@ -1,0 +1,10 @@
+C001	Jayson  Lim	M	0192208980	lim@hotmail.com	No 199  Jalan M 9  Malacca City  Malacca  75350  Malaysia
+C002	Alice  Lim	F	0128896363	alicelim@gmail.com	No 99  Jalan100  Malacca City  Malacca  75250  Malaysia
+C003	Bobby  Leong	M	0199990234	bob@gmail.com	No 19  Jalan M10  Alor Setar  Kedah  6550  Malaysia
+C004	Caren  Ong	F	0198808212	caren@hotmail.com	No 10  Jalan M1  Alor Setar  Kedah  5100  Malaysia
+C005	Abby  Lim 	F	0182199909	abby@gmail.com	No 100  Jalan M199  Johor Bahru  Johor  98850  Malaysia
+C007	Lim  May	F	0123446678	lim@gmail.com	No12  Jalan M11  Petaling Jaya  Kuala Lumpur  46150  Malaysia
+C008	James  Tan	F	0121555312	tan@gmail.com	No 99  Jalan M99  Petaling Jaya  Kuala Lumpur  40150  Malaysia
+C009	He  Luo Luo	M	0168870526	luoluo@hotmail.com	No 2  Jalan M 12  Malacca City  Malacca  75350  Malaysia
+C010	Jackson  Yee	M	0128891234	yee1128@gmail.com	No 18A  Jalan MJ 20  Miri  Sarawak  98000  Malaysia
+C011	Zhai  Xiao Wen	M	0190608989	xiaowen66@hotmail.com	No 66A  Jalan M 12  Kuantan  Pahang  25000  Malaysia

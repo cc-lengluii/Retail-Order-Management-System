@@ -1,0 +1,12 @@
+P001	Julie Biscuit	Food	N	9.99	44
+P002	Wooden Table	Furnishing	F	1089.0	25
+P003	Padini White-T 	Fashion	N	39.99	28
+P004	Super AA Earphone	Electronic	N	25.0	72
+P005	Mini WebCam 	Electronic	F	206.8	18
+P006	Soda Cracker	Food	N	10.0	48
+P007	Honey Corn	Food	N	5.0	99
+P008	Wooden Chair	Furnishing	F	330.0	18
+P009	C-Hair Dryer	Electronic	N	125.0	79
+P010	Super Kettle	Electronic	N	200.0	78
+P011	Papa Bread	Food	N	4.5	120
+P012	Comfort-Z Pillow	Electronic	N	49.9	80

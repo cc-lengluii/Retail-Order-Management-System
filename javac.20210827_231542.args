@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\build\\classes"
+-classpath
+"C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\build\\classes;C:\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar;C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\swingx-all-1.6.4.jar"
+-sourcepath
+"C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\src"
+-target
+12
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar;C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\swingx-all-1.6.4.jar;C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\build\\empty"
+-s
+"C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\build\\generated-sources\\ap-source-output"
+-source
+12
+"C:\\Users\\User\\Desktop\\APU\\Year 2\\Sem1\\OODJ\\Assignment\\test\\assignment-Gui-v2\\assignment-Gui-v2\\assignment-Gui-v2\\oodj-assignment-v6\\oodj-assignment-v6\\assignment.v6\\src\\assignment\\Main.java"
